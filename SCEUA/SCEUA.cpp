@@ -72,7 +72,7 @@ SCE-UA算法控制参数：
 #include <numbers> //使用圆周率常数
 
 #include "SCEUA.h"
-#include "./XAJ/XAJ.h"
+#include "../XAJ/XAJ.h"
 
 
 /********************************************************
